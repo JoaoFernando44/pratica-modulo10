@@ -1,0 +1,55 @@
+.task-menu {
+    margin: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .task-menu h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .task-menu table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .task-menu th, .task-menu td {
+    padding: 12px;
+    text-align: left;
+    border: 1px solid #ddd;
+  }
+  
+  .task-menu th {
+    background-color: #f2f2f2;
+  }
+  
+  .task-actions {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .create-btn, .cancel-btn {
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+  }
+  
+  .edit-btn {
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  .delete-btn {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
